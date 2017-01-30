@@ -1,5 +1,6 @@
 # Sunday Reading
 ### January 29th, 2017
+
 Some readings from around the web.
 
 **In the News**
