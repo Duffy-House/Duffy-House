@@ -1,5 +1,4 @@
 # Sunday Reading
-<br>
 Selected readings from around the web.
 
 **In the News**
