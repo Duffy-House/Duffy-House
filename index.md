@@ -9,7 +9,7 @@ Selected readings from the week.
 
 [On Holocaust Remembrance Day, president Donald Trump repeated one of the US's most tragic errors - Heather Timmons, Quartz](https://qz.com/896975/on-holocaust-remembrance-day-president-trump-shut-the-door-on-refugees-repeating-one-of-the-uss-tragic-mistakes/)
 
-[Environmental racism in St. Lewis - Clark Randall and Jacqui Germain, The New Inquiry](http://thenewinquiry.com/essays/environmental-racism-in-st-louis/)
+[Environmental racism in St. Louis - Clark Randall and Jacqui Germain, The New Inquiry](http://thenewinquiry.com/essays/environmental-racism-in-st-louis/)
 
 **History**
 
