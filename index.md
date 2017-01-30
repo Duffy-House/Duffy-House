@@ -1,7 +1,7 @@
-# Sunday Reading
+# Sunday Reading <br>
 #### January 29th, 2017
 <br>
-Some readings from around the web.
+Selected readings from around the web.
 
 **In the News**
 * [The very short list of Republican congressmen who are publicly condemning Trump's "Muslim ban" - Heather Timmons, Quartz](https://qz.com/897532/the-very-short-list-of-republican-congressmen-who-are-publicly-condemning-president-trumps-muslim-ban)
