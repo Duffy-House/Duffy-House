@@ -1,4 +1,7 @@
 # Sunday Reading
+### January 29, 2017
+
+Selected readings from the week.
 
 **In the News**
 
