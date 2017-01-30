@@ -3,19 +3,25 @@
 Selected readings from around the web.
 
 **In the News**
-<li><a href="https://qz.com/897532/the-very-short-list-of-republican-congressmen-who-are-publicly-condemning-president-trumps-muslim-ban">The very short list of Republican congressmen who are publicly condemning Trump's "Muslim ban" - Heather Timmons, Quartz]()</a></li>
-<li>[On Holocaust Remembrance Day, president Donald Trump repeated one of the US's most tragic errors - Heather Timmons, Quartz](https://qz.com/896975/on-holocaust-remembrance-day-president-trump-shut-the-door-on-refugees-repeating-one-of-the-uss-tragic-mistakes/)</li>
-<li>[Environmental racism in St. Lewis - Clark Randall and Jacqui Germain, The New Inquiry](http://thenewinquiry.com/essays/environmental-racism-in-st-louis/)</li>
+<li><a href="https://qz.com/897532/the-very-short-list-of-republican-congressmen-who-are-publicly-condemning-president-trumps-muslim-ban">The very short list of Republican congressmen who are publicly condemning Trump's "Muslim ban" - Heather Timmons, Quartz]</a></li>
+
+<li><a href="https://qz.com/896975/on-holocaust-remembrance-day-president-trump-shut-the-door-on-refugees-repeating-one-of-the-uss-tragic-mistakes/">On Holocaust Remembrance Day, president Donald Trump repeated one of the US's most tragic errors - Heather Timmons, Quartz</a></li>
+
+<li><a href="http://thenewinquiry.com/essays/environmental-racism-in-st-louis/">Environmental racism in St. Lewis - Clark Randall and Jacqui Germain, The New Inquiry</a></li>
 
 **History**
 <li><a href="https://qz.com/891085/from-the-bible-to-hillbilly-elegy-the-books-america-was-reading-at-inauguration-time-from-the-eisenhower-era-to-trumps/">The books America was reading at inauguration time for every president since Eisenhower - Thu-Huong Ha, Quartz</a></li>
-<li>[The gentle anarchy of the park ranger - Jebediah Purdy, The Atlantic](https://www.theatlantic.com/science/archive/2017/01/lore-of-the-park-ranger/514832/?utm_source=feed)</li>
-<li>[The myth of the well-behaved Women's March - Jess Zimmerman, New Republic](https://newrepublic.com/article/140065/myth-well-behaved-womens-march)</li>
+
+<li><a href="https://www.theatlantic.com/science/archive/2017/01/lore-of-the-park-ranger/514832/?utm_source=feed">The gentle anarchy of the park ranger - Jebediah Purdy, The Atlantic</a></li>
+
+<li><a href="https://newrepublic.com/article/140065/myth-well-behaved-womens-march">The myth of the well-behaved Women's March - Jess Zimmerman, New Republic</a></li>
 
 **Arts & Culture**
-<li>["Calling Bullshit": See the syllabus for a college course designed to identify & combat bullshit - Dan Colman, Open Culture](http://www.openculture.com/2017/01/calling-bullshit.html)</li>
-<li>[People have been trying to get rid of the National Endowment for the Arts for 36 years - Thu Huong Ha, Quartz](https://qz.com/895438/the-national-endowment-of-the-arts-nea-has-been-under-fire-from-republicans-for-36-years/)</li>
-<li>[In praise of Corinne, *The Bachelor's* human conspiracy theory - Megan Garber, The Atlantic](https://www.theatlantic.com/entertainment/archive/2017/01/in-praise-of-corinne-the-bachelors-human-conspiracy-theory/514217/?utm_source=feed)</li>
+<li><a href="http://www.openculture.com/2017/01/calling-bullshit.html">"Calling Bullshit": See the syllabus for a college course designed to identify & combat bullshit - Dan Colman, Open Culture</a></li>
+
+<li><a href="https://qz.com/895438/the-national-endowment-of-the-arts-nea-has-been-under-fire-from-republicans-for-36-years/">People have been trying to get rid of the National Endowment for the Arts for 36 years - Thu Huong Ha, Quartz</a></li>
+
+<li><a href="https://www.theatlantic.com/entertainment/archive/2017/01/in-praise-of-corinne-the-bachelors-human-conspiracy-theory/514217/?utm_source=feed">In praise of Corinne, *The Bachelor's* human conspiracy theory</a></li>
 
 **Opinion**
 <li>[The inauguration of fascism?  Thinking violence and resistance in the age of Trump - David Langstaff, Abolition Journal](https://abolitionjournal.org/the-inauguration-of-fascism-thinking-violence-and-resistance-in-the-age-of-trump/)</li>
