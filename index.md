@@ -1,5 +1,4 @@
-# Sunday Reading <br>
-#### January 29th, 2017
+# Sunday Reading
 <br>
 Selected readings from around the web.
 
