@@ -3,7 +3,7 @@
 Selected readings from around the web.
 
 **In the News**
-<li>[The very short list of Republican congressmen who are publicly condemning Trump's "Muslim ban" - Heather Timmons, Quartz](https://qz.com/897532/the-very-short-list-of-republican-congressmen-who-are-publicly-condemning-president-trumps-muslim-ban)</li>
+<li><a href="https://qz.com/897532/the-very-short-list-of-republican-congressmen-who-are-publicly-condemning-president-trumps-muslim-ban">The very short list of Republican congressmen who are publicly condemning Trump's "Muslim ban" - Heather Timmons, Quartz]()</a></li>
 <li>[On Holocaust Remembrance Day, president Donald Trump repeated one of the US's most tragic errors - Heather Timmons, Quartz](https://qz.com/896975/on-holocaust-remembrance-day-president-trump-shut-the-door-on-refugees-repeating-one-of-the-uss-tragic-mistakes/)</li>
 <li>[Environmental racism in St. Lewis - Clark Randall and Jacqui Germain, The New Inquiry](http://thenewinquiry.com/essays/environmental-racism-in-st-louis/)</li>
 
